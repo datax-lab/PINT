@@ -1,3 +1,4 @@
+<img width="16384" height="10088" alt="overview" src="https://github.com/user-attachments/assets/46891ff5-1493-46af-8763-d36073aa6d0a" />
 # PINT: Pathway–Pathway Interaction Model
 
 ## Overview
